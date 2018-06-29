@@ -1,44 +1,44 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.github.io" resolutions="1x,2x" timestamp="1530253307379">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.github.io" resolutions="1x,2x" timestamp="1530256756372">
   <folder name="css">
     <file name="site_global.css" crc="4156651591"/>
-    <file name="master_projects.css" crc="327265187" ref="aro-2017:insight-14:yuki-2018:mist-2016:eatjoy-2014:bamboo-2013:loop-2016:fin-2015:galactica-2015:fire-lounge-2018:unit-08-13"/>
-    <file name="nomq_preview_master_projects.css" crc="309826765" ref="aro-2017:insight-14:yuki-2018:mist-2016:eatjoy-2014:bamboo-2013:loop-2016:fin-2015:galactica-2015:fire-lounge-2018:unit-08-13"/>
-    <file name="master_master-page-02.css" crc="3929037563" ref="resume:about:portfolio:contact"/>
-    <file name="nomq_preview_master_master-page-02.css" crc="186454065" ref="resume:about:portfolio:contact"/>
-    <file name="master_master-page.css" crc="3816922332" ref="index"/>
+    <file name="master_master-page.css" crc="194663065" ref="index"/>
     <file name="nomq_preview_master_master-page.css" crc="114078221" ref="index"/>
-    <file name="aro-2017.css" crc="4271535113" ref="aro-2017"/>
-    <file name="nomq_aro-2017.css" crc="209675434" ref="aro-2017"/>
-    <file name="insight-14.css" crc="348744639" ref="insight-14"/>
-    <file name="nomq_insight-14.css" crc="3981199042" ref="insight-14"/>
-    <file name="yuki-2018.css" crc="172822012" ref="yuki-2018"/>
-    <file name="nomq_yuki-2018.css" crc="4125463770" ref="yuki-2018"/>
-    <file name="index.css" crc="3775543872" ref="index"/>
-    <file name="nomq_index.css" crc="3774192858" ref="index"/>
-    <file name="mist-2016.css" crc="27242463" ref="mist-2016"/>
-    <file name="nomq_mist-2016.css" crc="502865113" ref="mist-2016"/>
-    <file name="eatjoy-2014.css" crc="4204758840" ref="eatjoy-2014"/>
+    <file name="master_master-page-02.css" crc="4249675384" ref="portfolio:about:resume:contact"/>
+    <file name="nomq_preview_master_master-page-02.css" crc="186454065" ref="portfolio:about:resume:contact"/>
+    <file name="master_projects.css" crc="4153735864" ref="eatjoy-2014:unit-08-13:galactica-2015:insight-14:loop-2016:fire-lounge-2018:mist-2016:aro-2017:fin-2015:yuki-2018:bamboo-2013"/>
+    <file name="nomq_preview_master_projects.css" crc="309826765" ref="eatjoy-2014:unit-08-13:galactica-2015:insight-14:loop-2016:fire-lounge-2018:mist-2016:aro-2017:fin-2015:yuki-2018:bamboo-2013"/>
+    <file name="eatjoy-2014.css" crc="333605550" ref="eatjoy-2014"/>
     <file name="nomq_eatjoy-2014.css" crc="4258899084" ref="eatjoy-2014"/>
-    <file name="bamboo-2013.css" crc="4064239883" ref="bamboo-2013"/>
-    <file name="nomq_bamboo-2013.css" crc="263331768" ref="bamboo-2013"/>
-    <file name="loop-2016.css" crc="209150164" ref="loop-2016"/>
-    <file name="nomq_loop-2016.css" crc="4227416925" ref="loop-2016"/>
-    <file name="fin-2015.css" crc="3838655452" ref="fin-2015"/>
-    <file name="nomq_fin-2015.css" crc="233954643" ref="fin-2015"/>
-    <file name="resume.css" crc="4131336897" ref="resume"/>
-    <file name="nomq_resume.css" crc="4061277693" ref="resume"/>
-    <file name="galactica-2015.css" crc="52612999" ref="galactica-2015"/>
-    <file name="nomq_galactica-2015.css" crc="4078453566" ref="galactica-2015"/>
-    <file name="fire-lounge-2018.css" crc="4264588225" ref="fire-lounge-2018"/>
-    <file name="nomq_fire-lounge-2018.css" crc="429701926" ref="fire-lounge-2018"/>
-    <file name="about.css" crc="4238923210" ref="about"/>
-    <file name="nomq_about.css" crc="3915744801" ref="about"/>
-    <file name="portfolio.css" crc="484765719" ref="portfolio"/>
+    <file name="portfolio.css" crc="4053962936" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="4115342026" ref="portfolio"/>
-    <file name="contact.css" crc="4154504897" ref="contact"/>
-    <file name="nomq_contact.css" crc="3773359924" ref="contact"/>
-    <file name="unit-08-13.css" crc="445519208" ref="unit-08-13"/>
+    <file name="unit-08-13.css" crc="4064101179" ref="unit-08-13"/>
     <file name="nomq_unit-08-13.css" crc="253439677" ref="unit-08-13"/>
+    <file name="galactica-2015.css" crc="4245518324" ref="galactica-2015"/>
+    <file name="nomq_galactica-2015.css" crc="4078453566" ref="galactica-2015"/>
+    <file name="insight-14.css" crc="3969467062" ref="insight-14"/>
+    <file name="nomq_insight-14.css" crc="3981199042" ref="insight-14"/>
+    <file name="about.css" crc="3951003016" ref="about"/>
+    <file name="nomq_about.css" crc="3915744801" ref="about"/>
+    <file name="loop-2016.css" crc="3825927253" ref="loop-2016"/>
+    <file name="nomq_loop-2016.css" crc="4227416925" ref="loop-2016"/>
+    <file name="fire-lounge-2018.css" crc="7660378" ref="fire-lounge-2018"/>
+    <file name="nomq_fire-lounge-2018.css" crc="429701926" ref="fire-lounge-2018"/>
+    <file name="resume.css" crc="189988769" ref="resume"/>
+    <file name="nomq_resume.css" crc="4061277693" ref="resume"/>
+    <file name="mist-2016.css" crc="3780137758" ref="mist-2016"/>
+    <file name="nomq_mist-2016.css" crc="502865113" ref="mist-2016"/>
+    <file name="aro-2017.css" crc="167414794" ref="aro-2017"/>
+    <file name="nomq_aro-2017.css" crc="209675434" ref="aro-2017"/>
+    <file name="contact.css" crc="4090909246" ref="contact"/>
+    <file name="nomq_contact.css" crc="3773359924" ref="contact"/>
+    <file name="fin-2015.css" crc="330802973" ref="fin-2015"/>
+    <file name="nomq_fin-2015.css" crc="233954643" ref="fin-2015"/>
+    <file name="yuki-2018.css" crc="322781890" ref="yuki-2018"/>
+    <file name="nomq_yuki-2018.css" crc="4125463770" ref="yuki-2018"/>
+    <file name="bamboo-2013.css" crc="245386779" ref="bamboo-2013"/>
+    <file name="nomq_bamboo-2013.css" crc="263331768" ref="bamboo-2013"/>
+    <file name="index.css" crc="383561992" ref="index"/>
+    <file name="nomq_index.css" crc="3774192858" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="77fb424e091cd00334e5036c8d1f0cb4.webm" crc="3837752685" seo="true" mt="1516161052000"/>
@@ -109,40 +109,40 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="115p js logo white.png" crc="4180341506" seo="true" ref="index:contact:portfolio:fire-lounge-2018:aro-2017:yuki-2018:bamboo-2013:eatjoy-2014:galactica-2015:loop-2016:mist-2016:fin-2015:insight-14:unit-08-13:about:resume">
+      <caption webpage="eatjoy-2014" alt=""/>
+      <caption webpage="fin-2015" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="aro-2017" alt=""/>
+      <caption webpage="loop-2016" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="galactica-2015" alt=""/>
+      <caption webpage="insight-14" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="mist-2016" alt=""/>
       <caption webpage="fire-lounge-2018" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="insight-14" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fin-2015" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
-      <caption webpage="loop-2016" alt=""/>
-      <caption webpage="aro-2017" alt=""/>
+      <caption webpage="yuki-2018" alt=""/>
       <caption webpage="resume" alt=""/>
-      <caption webpage="galactica-2015" alt=""/>
-      <caption webpage="eatjoy-2014" alt=""/>
       <caption webpage="bamboo-2013" alt=""/>
       <caption webpage="unit-08-13" alt=""/>
-      <caption webpage="yuki-2018" alt=""/>
     </file>
     <file name="115p js logo white_2x.png" crc="57682572" seo="true" ref="index:contact:portfolio:fire-lounge-2018:aro-2017:yuki-2018:bamboo-2013:eatjoy-2014:galactica-2015:loop-2016:mist-2016:fin-2015:insight-14:unit-08-13:about:resume">
+      <caption webpage="eatjoy-2014" alt=""/>
+      <caption webpage="fin-2015" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="aro-2017" alt=""/>
+      <caption webpage="loop-2016" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="galactica-2015" alt=""/>
+      <caption webpage="insight-14" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="mist-2016" alt=""/>
       <caption webpage="fire-lounge-2018" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="insight-14" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fin-2015" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
-      <caption webpage="loop-2016" alt=""/>
-      <caption webpage="aro-2017" alt=""/>
+      <caption webpage="yuki-2018" alt=""/>
       <caption webpage="resume" alt=""/>
-      <caption webpage="galactica-2015" alt=""/>
-      <caption webpage="eatjoy-2014" alt=""/>
       <caption webpage="bamboo-2013" alt=""/>
       <caption webpage="unit-08-13" alt=""/>
-      <caption webpage="yuki-2018" alt=""/>
     </file>
     <file name="115p js logo white40x28.png" crc="475973012" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -429,7 +429,7 @@
     <file name="living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x3.jpg" crc="3471132" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="fire-dance-crop-u349833.jpg" crc="6343511" seo="true" ref="fire-lounge-2018">
+    <file name="fire-dance-crop-u349833.jpg" crc="3823062555" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
     <file name="fire-dance-crop-u34983_2x3.jpg" crc="146785067" seo="true" ref="fire-lounge-2018">
@@ -523,7 +523,7 @@
     <file name="pasted image 609x360-crop-u40325.jpg" crc="143106404" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="pasted image 267x354-crop-u47286.jpg" crc="485006763" seo="true" ref="aro-2017">
+    <file name="pasted image 267x354-crop-u47286.jpg" crc="535376757" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 353x266-crop-u47295.jpg" crc="4230386618" seo="true" ref="aro-2017">
@@ -553,7 +553,7 @@
     <file name="87154-200-u41833.png" crc="4294963309" ref="aro-2017"/>
     <file name="36204-u41843.png" crc="4072770284" ref="aro-2017"/>
     <file name="36204-u41843_2x.png" crc="293184235" ref="aro-2017"/>
-    <file name="herbs-ksng--621x414@livemint-crop-u41871.jpg" crc="455822218" seo="true" ref="aro-2017">
+    <file name="herbs-ksng--621x414@livemint-crop-u41871.jpg" crc="432747682" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="add_plus.png" crc="3988893840" seo="true" ref="aro-2017">
@@ -594,7 +594,7 @@
     <file name="pasted image 288x357_2x.jpg" crc="4270357745" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="pasted image 385x353-crop-u45559.jpg" crc="396474588" seo="true" ref="aro-2017">
+    <file name="pasted image 385x353-crop-u45559.jpg" crc="183419517" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 280x209-crop-u45604.jpg" crc="3977917629" seo="true" ref="aro-2017">
@@ -657,7 +657,7 @@
     <file name="16-crop-u45923_2x.jpg" crc="271955474" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="photo jul 19, 21 17 56 (1)-crop-u45933.jpg" crc="299973356" seo="true" ref="aro-2017">
+    <file name="photo jul 19, 21 17 56 (1)-crop-u45933.jpg" crc="3784707399" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="photo jul 19, 21 17 56 (1)-crop-u45933_2x.jpg" crc="260009666" seo="true" ref="aro-2017">
@@ -812,7 +812,7 @@
       <caption webpage="aro-2017" alt=""/>
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="layer 1-crop-u55334.png" crc="3810870944" seo="true" ref="aro-2017">
+    <file name="layer 1-crop-u55334.png" crc="314471089" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 295x238-crop-u55353.jpg" crc="527910192" seo="true" ref="aro-2017">
@@ -2181,20 +2181,20 @@
       <caption webpage="unit-08-13" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="17802508" seo="true" mt="1530168823833" redirect="true"/>
-  <file name="contact.html" crc="418590702" seo="true" mt="1530169718699" redirect="true"/>
-  <file name="portfolio.html" crc="3859002359" seo="true" mt="1530169311510" redirect="true"/>
-  <file name="fire-lounge-2018.html" crc="3804858507" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="aro-2017.html" crc="225740305" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="yuki-2018.html" crc="3833681478" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="bamboo-2013.html" crc="4233162268" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="eatjoy-2014.html" crc="3791402695" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="galactica-2015.html" crc="3825224530" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="loop-2016.html" crc="232074556" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="mist-2016.html" crc="281367515" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="fin-2015.html" crc="163022523" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="insight-14.html" crc="338611378" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="unit-08-13.html" crc="283884286" seo="true" mt="1530168823784" redirect="true"/>
-  <file name="about.html" crc="182534537" seo="true" mt="1530169788128" redirect="true"/>
-  <file name="resume.html" crc="4081682343" seo="true" mt="1530169748591" redirect="true"/>
+  <file name="index.html" crc="41139168" seo="true" mt="1530256417020" redirect="true"/>
+  <file name="contact.html" crc="195151255" seo="true" mt="1530169718699" redirect="true"/>
+  <file name="portfolio.html" crc="114445395" seo="true" mt="1530169311510" redirect="true"/>
+  <file name="fire-lounge-2018.html" crc="99382383" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="aro-2017.html" crc="513619190" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="yuki-2018.html" crc="298442927" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="bamboo-2013.html" crc="3883567364" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="eatjoy-2014.html" crc="4065425649" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="galactica-2015.html" crc="279960146" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="loop-2016.html" crc="4105792674" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="mist-2016.html" crc="56095324" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="fin-2015.html" crc="500105685" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="insight-14.html" crc="87020149" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="unit-08-13.html" crc="412220821" seo="true" mt="1530168823784" redirect="true"/>
+  <file name="about.html" crc="4167269740" seo="true" mt="1530169788128" redirect="true"/>
+  <file name="resume.html" crc="3999736670" seo="true" mt="1530169748591" redirect="true"/>
 </manifest>
