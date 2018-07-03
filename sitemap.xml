@@ -1,2140 +1,2719 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jasdesign.github.io/index.html</loc>
-    <lastmod>2018-06-29</lastmod>
+    <loc>http://jasdesign.us/index.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/upper%20bar%20a%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/upper%20bar%20a%20white.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/upper%20bar%20purple.png</image:loc>
+      <image:loc>http://jasdesign.us/images/upper%20bar%20purple.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white40x28.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white40x28.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white40x28_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white40x28_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white29x20.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white29x20.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white29x20_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white29x20_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/fire-lounge-2018.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/fire-lounge-2018.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo74x51.png</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%2013.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%2013.png</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%2013_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%2013_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/demension.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/demension.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p04.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p04_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p05.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p05.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p05_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p05_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20sketch.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20sketch.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/p1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/p1.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p2_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u34929.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/052716_bb_early-fire-main_free-crop-u34929.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u34929_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/052716_bb_early-fire-main_free-crop-u34929_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u34963.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/suspended-fireplace-modern-crop-u34963.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u34963_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/suspended-fireplace-modern-crop-u34963_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u34983.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire-dance-crop-u34983.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u34983_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire-dance-crop-u34983_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u34941.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/romance-810x333-crop-u34941.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u34941_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/romance-810x333-crop-u34941_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo46x32.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p04655x834.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo46x32_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p04655x834_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%20131119x572.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p05762x989.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%20131119x572_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p05762x989_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04886x1129.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20sketch811x294.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04886x1129_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/p1826x352.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p051031x1339.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p2454x685.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p051031x1339_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p2454x685_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20sketch1098x398.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/052716_bb_early-fire-main_free-crop-u349292.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/p11118x476.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/052716_bb_early-fire-main_free-crop-u34929_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2615x927.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/suspended-fireplace-modern-crop-u349632.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2615x927_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/suspended-fireplace-modern-crop-u34963_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u349292.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u349952.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u34929_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u349632.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire-dance-crop-u349832.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u34963_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire-dance-crop-u34983_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u349952.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/romance-810x333-crop-u349412.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/romance-810x333-crop-u34941_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u349832.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo40x28.png</image:loc>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u34983_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/demension658x195.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u349412.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%2013826x422.png</image:loc>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u34941_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%2013826x422_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04655x834.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p05555x721.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04655x834_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p05555x721_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p05762x989.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20sketch591x215.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p05762x989_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/p1602x257.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20sketch811x294.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p2331x499.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/p1826x352.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p2331x499_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2454x685.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/052716_bb_early-fire-main_free-crop-u349293.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2454x685_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/052716_bb_early-fire-main_free-crop-u34929_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u349293.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/suspended-fireplace-modern-crop-u349633.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u34929_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/suspended-fireplace-modern-crop-u34963_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u349633.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u349953.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u34963_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u349953.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire-dance-crop-u349833.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire-dance-crop-u34983_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u349833.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/romance-810x333-crop-u349413.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u34983_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/romance-810x333-crop-u34941_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u349413.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo29x20.png</image:loc>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u34941_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p04477x608.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo40x28.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fire%20lounge%20p04477x608_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo40x28_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/demension480x143.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/demension658x195.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%2013603x308.png</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%2013826x422.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%2013603x308_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%2013826x422_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p05555x721.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p05555x721_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20sketch591x215.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/p1602x257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2331x499.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p2331x499_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u349294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/052716_bb_early-fire-main_free-crop-u34929_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u349634.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/suspended-fireplace-modern-crop-u34963_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u349954.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u349834.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire-dance-crop-u34983_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u349414.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/romance-810x333-crop-u34941_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo29x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo29x20_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04477x608.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fire%20lounge%20p04477x608_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/demension480x143.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/layer%2013603x308.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/layer%2013603x308_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/aro-2017.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/aro-2017.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20445x309.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20445x309_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20461x341.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20461x341_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20408x383.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x383.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20408x383_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x383_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20634x472.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20634x472_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20612x440-crop-u39639.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u39639.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20612x440-crop-u39639_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u39639_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16565074-feeling-over-worked.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16565074-feeling-over-worked_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20507x380.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20507x380.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20507x380_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20507x380_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20416x307.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20416x307.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20460x338.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20460x338.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20338x253.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x253.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20609x360-crop-u40325.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20609x360-crop-u40325.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20267x354-crop-u47286.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20267x354-crop-u47286.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20353x266-crop-u47295.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x266-crop-u47295.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/quincydanielsgarden-crop-u47352.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u47352.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/quincydanielsgarden-crop-u47352_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u47352_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20353x278.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x278.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/in_soft-crop-u47332.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u47332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/in_soft-crop-u47332_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u47332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/scenter-2-crop-u47342.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/scenter-2-crop-u47342.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/mile_-_the_controllable_immersive_sensory_room_wide-crop-u47371.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/mile_-_the_controllable_immersive_sensory_room_wide-crop-u47371.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/herbs-ksng--621x414@livemint-crop-u41871.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/herbs-ksng--621x414@livemint-crop-u41871.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/add_plus.png</image:loc>
+      <image:loc>http://jasdesign.us/images/add_plus.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/add_plus_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/add_plus_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/uuy.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/uuy.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro%20bench%20unwind_book_jasmine%20song.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20song.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro%20bench%20unwind_book_jasmine%20songpdf%20-%20adobe%20acrobat%20pro%20dc.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20songpdf%20-%20adobe%20acrobat%20pro%20dc.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch%2001.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch%2001.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch%20models.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch%20models.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch02.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch02.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20417x305-crop-u45532.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20417x305-crop-u45532.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20257x340-crop-u45541.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x340-crop-u45541.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20288x357.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x357.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20288x357_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x357_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20385x353-crop-u45559.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20385x353-crop-u45559.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20280x209-crop-u45604.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20280x209-crop-u45604.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20330x263.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20330x263.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20292x355-crop-u45622.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u45622.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20292x355-crop-u45622_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u45622_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20338x402-crop-u45631.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u45631.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20338x402-crop-u45631_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u45631_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20257x241-crop-u45658.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x241-crop-u45658.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20286x214-crop-u45667.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20286x214-crop-u45667.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%201191x644-crop-u45676.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%201191x644-crop-u45676.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20285x214-crop-u45685.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20285x214-crop-u45685.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/11-crop-u45883.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/11-crop-u45883.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/11-crop-u45883_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/11-crop-u45883_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/15-crop-u45893.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/15-crop-u45893.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/15-crop-u45893_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/15-crop-u45893_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/12-crop-u45903.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/12-crop-u45903.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/12-crop-u45903_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/12-crop-u45903_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/14-crop-u45913.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/14-crop-u45913.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/14-crop-u45913_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/14-crop-u45913_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16-crop-u45923.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16-crop-u45923.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16-crop-u45923_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16-crop-u45923_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/led-crop-u47417.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/led-crop-u47417.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/wordcloud.png</image:loc>
+      <image:loc>http://jasdesign.us/images/wordcloud.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/wordcloud_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/wordcloud_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/a_page_18-crop-u46718.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u46718.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/a_page_18-crop-u46718_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u46718_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-form%20large-crop-u47862.png</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-form%20large-crop-u47862.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/apperance%20model.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/apperance%20model728x147.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/apperance%20model_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/apperance%20model728x147_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20250x371-crop-u48122.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20250x371-crop-u48122.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20284x187.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20284x187.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20340x273.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x273.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20340x273_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x273_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20335x189.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20335x189.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20327x222-crop-u48158.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20327x222-crop-u48158.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/7c2c27b6857b273d551934450773d26c.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/7c2c27b6857b273d551934450773d26c_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%20022.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%20022.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%20022_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%20022_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/air.png</image:loc>
+      <image:loc>http://jasdesign.us/images/air.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/psicologo_roma.png</image:loc>
+      <image:loc>http://jasdesign.us/images/psicologo_roma.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/smellscape_header_ph_1800.png</image:loc>
+      <image:loc>http://jasdesign.us/images/smellscape_header_ph_1800.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%200223.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%200223.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%200223_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%200223_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches11111.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches11111.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches11111_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches11111_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches444.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches444.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches444_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches444_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/4%20boards.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/4%20boards.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20403x345.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20403x345.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20403x349.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20403x349.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20403x347.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20403x347.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/erro.png</image:loc>
+      <image:loc>http://jasdesign.us/images/erro.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20935x642.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20935x642.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20455x405.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20455x405.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20455x4052.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20455x4052.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20455x413.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20455x413.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-components%20for%20web%2001.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web%2001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-components%20for%20web2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/main%20for%20web-crop-u53043.png</image:loc>
+      <image:loc>http://jasdesign.us/images/main%20for%20web-crop-u53043.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/main%20for%20web2.png</image:loc>
+      <image:loc>http://jasdesign.us/images/main%20for%20web2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-application%20for%20web.png</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-application%20for%20web.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20392x294.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20392x294.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%201-crop-u55334.png</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%201-crop-u55334.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20295x238-crop-u55353.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20295x238-crop-u55353.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/model%20making.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making2.png</image:loc>
+      <image:loc>http://jasdesign.us/images/model%20making2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making2_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/model%20making2_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/42.png</image:loc>
+      <image:loc>http://jasdesign.us/images/42.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/42_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/42_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20445x309151x104.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309204x141.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20445x309151x104_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309204x141_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20461x341141x104.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341191x141.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20461x341141x104_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341191x141_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20408x383111x104.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x383150x141.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20408x383111x104_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x383150x141_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20634x472140x104.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472189x141.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20634x472140x104_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472189x141_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20612x440-crop-u396392.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u396392.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20612x440-crop-u39639_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u39639_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16565074-feeling-over-worked236x134.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked319x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16565074-feeling-over-worked236x134_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked319x182_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20609x360-crop-u403252.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20507x380245x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20267x354-crop-u472862.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20507x380245x182_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20353x266-crop-u472952.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20416x307244x181.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/quincydanielsgarden-crop-u473522.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20460x338253x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/quincydanielsgarden-crop-u47352_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x253244x183.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20353x278143x113.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20609x360-crop-u403252.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/scenter-2-crop-u473422.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20267x354-crop-u472862.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/in_soft-crop-u473322.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x266-crop-u472952.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/in_soft-crop-u47332_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u473522.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/mile_-_the_controllable_immersive_sensory_room_wide-crop-u473712.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u47352_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/herbs-ksng--621x414@livemint-crop-u418712.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x278194x153.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/add_plus41x41.png</image:loc>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u473322.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/add_plus41x41_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u47332_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/uuy35x35.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/scenter-2-crop-u473422.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro%20bench%20unwind_book_jasmine%20song35x35.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/mile_-_the_controllable_immersive_sensory_room_wide-crop-u473712.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro%20bench%20unwind_book_jasmine%20songpdf%20-%20adobe%20acrobat%20pro%20dc35x35.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/herbs-ksng--621x414@livemint-crop-u418712.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch%2001675x398.png</image:loc>
+      <image:loc>http://jasdesign.us/images/add_plus55x55.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch%20models688x264.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/add_plus55x55_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch02688x458.png</image:loc>
+      <image:loc>http://jasdesign.us/images/uuy48x48.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20417x305-crop-u455322.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20song48x48.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20257x340-crop-u455412.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20songpdf%20-%20adobe%20acrobat%20pro%20dc47x47.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20288x35795x118.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch%2001914x538.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20288x35795x118_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch%20models932x358.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20385x353-crop-u455592.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch02932x620.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20280x209-crop-u456042.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20417x305-crop-u455322.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20330x263133x106.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x340-crop-u455412.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20292x355-crop-u456222.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x357128x159.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20292x355-crop-u45622_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x357128x159_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20338x402-crop-u456312.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20385x353-crop-u455592.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20338x402-crop-u45631_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20280x209-crop-u456042.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20257x241-crop-u456582.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20330x263180x144.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20286x214-crop-u456672.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u456222.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%201191x644-crop-u456762.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u45622_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20285x214-crop-u456852.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u456312.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/11-crop-u458832.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u45631_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/11-crop-u45883_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x241-crop-u456582.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/15-crop-u458932.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20286x214-crop-u456672.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/15-crop-u45893_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%201191x644-crop-u456762.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/12-crop-u459032.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20285x214-crop-u456852.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/12-crop-u45903_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/11-crop-u458832.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/14-crop-u459132.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/11-crop-u45883_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/14-crop-u45913_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/15-crop-u458932.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16-crop-u459232.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/15-crop-u45893_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16-crop-u45923_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/12-crop-u459032.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u459332.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/12-crop-u45903_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/14-crop-u459132.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/led-crop-u474172.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/14-crop-u45913_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/wordcloud268x192.png</image:loc>
+      <image:loc>http://jasdesign.us/images/16-crop-u459232.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/wordcloud268x192_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/16-crop-u45923_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/a_page_18-crop-u467182.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u459332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/a_page_18-crop-u46718_2x2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-form%20large-crop-u478622.png</image:loc>
+      <image:loc>http://jasdesign.us/images/led-crop-u474172.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches688x87.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/wordcloud363x259.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches688x87_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/wordcloud363x259_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/apperance%20model499x101.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u467182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/apperance%20model499x101_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u46718_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20250x371-crop-u481222.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-form%20large-crop-u478622.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20284x187117x78.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches932x117.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20340x27397x78.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches932x117_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20340x27397x78_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/apperance%20model.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20335x189138x78.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/apperance%20model_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20327x222-crop-u481582.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20250x371-crop-u481222.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/7c2c27b6857b273d551934450773d26c115x78.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20284x187159x106.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/7c2c27b6857b273d551934450773d26c115x78_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x273131x106.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%20022737x352.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x273131x106_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%20022737x352_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20335x189187x106.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/air183x91.png</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20327x222-crop-u481582.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/psicologo_roma168x91.png</image:loc>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c156x106.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/smellscape_header_ph_1800210x91.png</image:loc>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c156x106_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%200223770x778.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%20022998x476.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%200223770x778_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%20022998x476_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches11111723x370.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/air247x123.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches11111723x370_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/psicologo_roma227x123.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches444723x387.png</image:loc>
+      <image:loc>http://jasdesign.us/images/smellscape_header_ph_1800285x123.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches444723x387_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%2002231042x1054.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/4%20boards686x459.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%2002231042x1054_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/erro41x32.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches11111979x501.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-components%20for%20web%2001685x277.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches11111979x501_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-components%20for%20web2685x590.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches444979x524.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/main%20for%20web-crop-u530432.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches444979x524_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/main%20for%20web2688x262.png</image:loc>
+      <image:loc>http://jasdesign.us/images/4%20boards928x621.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-application%20for%20web685x913.png</image:loc>
+      <image:loc>http://jasdesign.us/images/erro55x44.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%201-crop-u553342.png</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web%2001927x375.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20295x238-crop-u553532.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web2927x798.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making686x725.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/main%20for%20web-crop-u530432.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making2686x393.png</image:loc>
+      <image:loc>http://jasdesign.us/images/main%20for%20web2932x354.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making2686x393_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-application%20for%20web927x1236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/42686x247.png</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20392x294224x168.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/42686x247_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%201-crop-u553342.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20445x309110x76.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20295x238-crop-u553532.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20445x309110x76_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/model%20making928x982.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20461x341103x76.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/model%20making2928x532.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20461x341103x76_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/model%20making2928x532_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20408x38381x76.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/42928x334.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20408x38381x76_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/42928x334_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20634x472102x76.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309151x104.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20634x472102x76_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309151x104_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20612x440-crop-u396393.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341141x104.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20612x440-crop-u39639_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341141x104_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16565074-feeling-over-worked172x98.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x383111x104.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16565074-feeling-over-worked172x98_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x383111x104_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20609x360-crop-u403253.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472140x104.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20267x354-crop-u472863.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472140x104_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20353x266-crop-u472953.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u396393.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/quincydanielsgarden-crop-u473523.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u39639_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/quincydanielsgarden-crop-u47352_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked236x134.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20353x278105x83.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked236x134_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/scenter-2-crop-u473423.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20609x360-crop-u403253.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/in_soft-crop-u473323.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20267x354-crop-u472863.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/in_soft-crop-u47332_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x266-crop-u472953.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/mile_-_the_controllable_immersive_sensory_room_wide-crop-u473713.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u473523.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/herbs-ksng--621x414@livemint-crop-u418713.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u47352_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/add_plus30x30.png</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x278143x113.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/add_plus30x30_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u473323.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/uuy26x26.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u47332_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro%20bench%20unwind_book_jasmine%20song26x26.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/scenter-2-crop-u473423.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro%20bench%20unwind_book_jasmine%20songpdf%20-%20adobe%20acrobat%20pro%20dc25x25.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/mile_-_the_controllable_immersive_sensory_room_wide-crop-u473713.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch%2001493x290.png</image:loc>
+      <image:loc>http://jasdesign.us/images/herbs-ksng--621x414@livemint-crop-u418713.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch%20models502x193.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/add_plus41x41.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketch02502x334.png</image:loc>
+      <image:loc>http://jasdesign.us/images/add_plus41x41_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20417x305-crop-u455323.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/uuy35x35.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20257x340-crop-u455413.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20song35x35.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20288x35769x86.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20songpdf%20-%20adobe%20acrobat%20pro%20dc35x35.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20288x35769x86_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch%2001675x398.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20385x353-crop-u455593.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch%20models688x264.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20280x209-crop-u456043.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketch02688x458.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20330x26397x78.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20417x305-crop-u455323.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20292x355-crop-u456223.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x340-crop-u455413.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20292x355-crop-u45622_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x35795x118.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20338x402-crop-u456313.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x35795x118_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20338x402-crop-u45631_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20385x353-crop-u455593.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20257x241-crop-u456583.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20280x209-crop-u456043.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20286x214-crop-u456673.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20330x263133x106.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%201191x644-crop-u456763.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u456223.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20285x214-crop-u456853.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u45622_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/11-crop-u458833.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u456313.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/11-crop-u45883_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u45631_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/15-crop-u458933.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x241-crop-u456583.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/15-crop-u45893_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20286x214-crop-u456673.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/12-crop-u459033.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%201191x644-crop-u456763.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/12-crop-u45903_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20285x214-crop-u456853.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/14-crop-u459133.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/11-crop-u458833.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/14-crop-u45913_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/11-crop-u45883_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16-crop-u459233.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/15-crop-u458933.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/16-crop-u45923_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/15-crop-u45893_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u459333.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/12-crop-u459033.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/12-crop-u45903_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/led-crop-u474173.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/14-crop-u459133.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/wordcloud195x140.png</image:loc>
+      <image:loc>http://jasdesign.us/images/14-crop-u45913_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/wordcloud195x140_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/16-crop-u459233.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/a_page_18-crop-u467183.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/16-crop-u45923_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/a_page_18-crop-u46718_2x3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u459333.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-form%20large-crop-u478623.png</image:loc>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches502x63.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/led-crop-u474173.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches502x63_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/wordcloud268x192.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/apperance%20model364x74.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/wordcloud268x192_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/apperance%20model364x74_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u467183.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20250x371-crop-u481223.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u46718_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20284x18786x57.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-form%20large-crop-u478623.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20340x27371x57.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches688x87.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20340x27371x57_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches688x87_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20335x189101x57.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/apperance%20model572x116.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20327x22286x57.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/apperance%20model572x116_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/7c2c27b6857b273d551934450773d26c84x57.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20250x371-crop-u481223.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/7c2c27b6857b273d551934450773d26c84x57_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20284x187117x78.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%20022538x257.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x27397x78.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%20022538x257_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x27397x78_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/air133x66.png</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20335x189138x78.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/psicologo_roma122x67.png</image:loc>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20327x222-crop-u481583.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/smellscape_header_ph_1800154x67.png</image:loc>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c115x78.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%200223561x568.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c115x78_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches%200223561x568_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%20022737x352.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches11111527x270.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%20022737x352_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches11111527x270_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/air183x91.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches444527x283.png</image:loc>
+      <image:loc>http://jasdesign.us/images/psicologo_roma168x91.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/sketches444527x283_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/smellscape_header_ph_1800210x91.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/4%20boards500x335.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%200223770x778.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/erro30x24.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches%200223770x778_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-components%20for%20web%2001499x202.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches11111723x370.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-components%20for%20web2499x430.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches11111723x370_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/main%20for%20web-crop-u530433.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches444723x387.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/main%20for%20web2502x191.png</image:loc>
+      <image:loc>http://jasdesign.us/images/sketches444723x387_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/aro-bench-application%20for%20web499x666.png</image:loc>
+      <image:loc>http://jasdesign.us/images/4%20boards686x459.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/layer%201-crop-u553343.png</image:loc>
+      <image:loc>http://jasdesign.us/images/erro41x32.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/pasted%20image%20295x238-crop-u553533.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web%2001685x277.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making500x529.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web2685x590.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making2500x287.png</image:loc>
+      <image:loc>http://jasdesign.us/images/main%20for%20web-crop-u530433.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/model%20making2500x287_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/main%20for%20web2688x262.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/42500x180.png</image:loc>
+      <image:loc>http://jasdesign.us/images/aro-bench-application%20for%20web685x913.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/42500x180_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/layer%201-crop-u553343.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20295x238-crop-u553533.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/model%20making686x725.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/model%20making2686x393.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/model%20making2686x393_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/42686x247.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/42686x247_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309110x76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20445x309110x76_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341103x76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20461x341103x76_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x38381x76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20408x38381x76_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472102x76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20634x472102x76_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u396394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20612x440-crop-u39639_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked172x98.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/16565074-feeling-over-worked172x98_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20609x360-crop-u403254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20267x354-crop-u472864.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x266-crop-u472954.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u473524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/quincydanielsgarden-crop-u47352_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20353x278105x83.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u473324.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/in_soft-crop-u47332_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/scenter-2-crop-u473424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/mile_-_the_controllable_immersive_sensory_room_wide-crop-u473714.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/herbs-ksng--621x414@livemint-crop-u418714.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/add_plus30x30.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/add_plus30x30_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/uuy26x26.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20song26x26.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/aro%20bench%20unwind_book_jasmine%20songpdf%20-%20adobe%20acrobat%20pro%20dc25x25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketch%2001493x290.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketch%20models502x193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketch02502x334.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20417x305-crop-u455324.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x340-crop-u455414.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x35769x86.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20288x35769x86_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20385x353-crop-u455594.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20280x209-crop-u456044.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20330x26397x78.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u456224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20292x355-crop-u45622_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u456314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20338x402-crop-u45631_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20257x241-crop-u456584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20286x214-crop-u456674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%201191x644-crop-u456764.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20285x214-crop-u456854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/11-crop-u458834.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/11-crop-u45883_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/15-crop-u458934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/15-crop-u45893_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/12-crop-u459034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/12-crop-u45903_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/14-crop-u459134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/14-crop-u45913_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/16-crop-u459234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/16-crop-u45923_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u459334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20jul%2019,%2021%2017%2056%20(1)-crop-u45933_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/led-crop-u474174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/wordcloud195x140.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/wordcloud195x140_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u467184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/a_page_18-crop-u46718_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/aro-bench-form%20large-crop-u478624.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches502x63.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches502x63_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/apperance%20model417x85.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/apperance%20model417x85_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20250x371-crop-u481224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20284x18786x57.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x27371x57.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20340x27371x57_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20335x189101x57.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20327x22286x57.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c84x57.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/7c2c27b6857b273d551934450773d26c84x57_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches%20022538x257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches%20022538x257_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/air133x66.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/psicologo_roma122x67.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/smellscape_header_ph_1800154x67.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches%200223561x568.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches%200223561x568_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches11111527x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches11111527x270_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches444527x283.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/sketches444527x283_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4%20boards500x335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/erro30x24.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web%2001499x202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/aro-bench-components%20for%20web2499x430.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/main%20for%20web-crop-u530434.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/main%20for%20web2502x191.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/aro-bench-application%20for%20web499x666.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/layer%201-crop-u553344.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/pasted%20image%20295x238-crop-u553534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/model%20making500x529.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/model%20making2500x287.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/model%20making2500x287_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/42500x180.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/42500x180_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/yuki-2018.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/yuki-2018.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/renderwithbg%20tube.png</image:loc>
+      <image:loc>http://jasdesign.us/images/renderwithbg%20tube.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20dimension%201.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%201.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20dimension%202.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p1.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p1_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p1_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p5.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p2_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p3.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p3_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p3_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p1515x728.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/renderwithbg%20tube1118x668.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p1515x728_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%201359x197.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p5516x320.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%202331x317.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p2516x545.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p1697x986.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p2516x545_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p1697x986_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p3516x549.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p5699x434.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p3516x549_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p2699x737.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20dimension%201265x145.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p2699x737_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20dimension%202245x234.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p3699x744.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/renderwithbg%20tube826x494.png</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p3699x744_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p1375x531.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p1515x728.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p1375x531_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p1515x728_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p5376x234.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p5516x320.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p2376x397.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p2516x545.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p2376x397_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p2516x545_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p3376x401.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p3516x549.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20p3376x401_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20p3516x549_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20dimension%201193x106.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%201265x145.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/yuki%20dimension%202178x171.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%202245x234.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/renderwithbg%20tube602x360.png</image:loc>
+      <image:loc>http://jasdesign.us/images/renderwithbg%20tube826x494.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20p1375x531.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20p1375x531_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20p5376x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20p2376x397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20p2376x397_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20p3376x401.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20p3376x401_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%201193x106.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/yuki%20dimension%202178x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/renderwithbg%20tube602x360.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/about.html</loc>
-    <lastmod>2018-06-28</lastmod>
+    <loc>http://jasdesign.us/about.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jspicture%20-%2008.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jspicture%20-%2008_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jspicture%20-%2008118x179.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jspicture%20-%2008118x179_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jspicture%20-%200886x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jspicture%20-%200886x130_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/unit-08-13.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/unit-08-13.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/65656-crop-u60485.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/65656.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/gg.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/gg.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/540001_2.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/540001_2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/df-crop-u60445.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/df2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766.png</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/65656-crop-u604852.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/65656577x405.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/gg240x300.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/gg327x407.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/540001_2284x284.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/540001_2385x385.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/df-crop-u604452.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/df466x385.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u607662.png</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u607662.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766_2x2.png</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766_2x2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/65656-crop-u604853.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u607663.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/gg175x219.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766_2x3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/540001_2207x207.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u607664.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u607663.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/df-crop-u604453.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/neon-genesis-evangelion-the-end-of-evangelion-54bbe1187a712-crop-u60766_2x4.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/resume.html</loc>
-    <lastmod>2018-06-28</lastmod>
+    <loc>http://jasdesign.us/resume.html</loc>
+    <lastmod>2018-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jasdesign.us/fin-2015.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p-crop-u62647.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p-crop-u62647_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p713x1779.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p713x1779_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p526x1314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p526x1314_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p384x958.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/fin%20p384x958_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/fin-2015.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/mist-2016.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fin%20p-crop-u62647.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo46x32.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fin%20p-crop-u62647_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo46x32_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fin%20p526x1314.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo40x28.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fin%20p526x1314_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo40x28_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fin%20p384x958.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo29x20.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/fin%20p384x958_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo29x20_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/940.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/940_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/capture.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/capture_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u60049.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u60049_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u59989.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u59989_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u59999.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u59999_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20oct%2025,%2017%2012%2039-crop-u60009.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20oct%2025,%2017%2012%2039-crop-u60009_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/table-crop-u60234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/table-crop-u60234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/composition.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/composition_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/940347x214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/940347x214_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/capture337x214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/capture337x214_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u600492.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u60049_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u599892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u59989_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u599992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u59999_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20oct%2025,%2017%2012%2039306x408.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20oct%2025,%2017%2012%2039306x408_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/table573x443.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/table573x443_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/composition852x629.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/composition852x629_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u600493.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u60049_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u599893.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u59989_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u599993.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u59999_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u600494.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/buildingswiresfogsfbw20120804-crop-u60049_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u599894.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2050%2035-crop-u59989_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u599994.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/photo%20dec%2008,%2019%2052%2005-crop-u59999_2x4.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/mist-2016.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/insight-14.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/940.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/microscope%20for%20kids.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/940_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/microscope%20for%20kids947x463.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/capture.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/microscope%20for%20kids700x342.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/capture_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/buildingswiresfogsfbw20120804-crop-u60049.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/buildingswiresfogsfbw20120804-crop-u60049_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2050%2035-crop-u59989.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2050%2035-crop-u59989_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2052%2005-crop-u59999.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2052%2005-crop-u59999_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20oct%2025,%2017%2012%2039-crop-u60009.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20oct%2025,%2017%2012%2039-crop-u60009_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/table-crop-u60234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/table-crop-u60234_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/composition.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/composition_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/940257x158.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/940257x158_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/capture249x158.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/capture249x158_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/buildingswiresfogsfbw20120804-crop-u600492.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/buildingswiresfogsfbw20120804-crop-u60049_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2050%2035-crop-u599892.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2050%2035-crop-u59989_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2052%2005-crop-u599992.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2052%2005-crop-u59999_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20oct%2025,%2017%2012%2039-crop-u600092.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20oct%2025,%2017%2012%2039-crop-u60009_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/table-crop-u602342.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/table-crop-u60234_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/composition629x464.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/composition629x464_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/940187x116.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/940187x116_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/capture182x115.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/capture182x115_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/buildingswiresfogsfbw20120804-crop-u600493.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/buildingswiresfogsfbw20120804-crop-u60049_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2050%2035-crop-u599893.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2050%2035-crop-u59989_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2052%2005-crop-u599993.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20dec%2008,%2019%2052%2005-crop-u59999_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20oct%2025,%2017%2012%2039-crop-u600093.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/photo%20oct%2025,%2017%2012%2039-crop-u60009_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/table-crop-u602343.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/table-crop-u60234_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/composition459x339.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/composition459x339_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/microscope%20for%20kids510x250.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/insight-14.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/contact.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/microscope%20for%20kids2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/microscope%20for%20kids700x342.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/microscope%20for%20kids510x250.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/contact.html</loc>
-    <lastmod>2018-06-28</lastmod>
+    <loc>http://jasdesign.us/portfolio.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo%20white_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/portfolio.html</loc>
-    <lastmod>2018-06-28</lastmod>
+    <loc>http://jasdesign.us/bamboo-2013.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx1054x2620.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx1054x2620_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx779x1935.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx779x1935_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx568x1411.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/bamboo%20water%20pitcher%20fixx568x1411_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/bamboo-2013.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/eatjoy-2014.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/bamboo%20water%20pitcher%20fixx.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u57730.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/bamboo%20water%20pitcher%20fixx_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u57730_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/bamboo%20water%20pitcher%20fixx779x1935.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u57700.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/bamboo%20water%20pitcher%20fixx779x1935_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u57700_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/bamboo%20water%20pitcher%20fixx568x1411.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/bamboo%20water%20pitcher%20fixx568x1411_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u57710.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u57710_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%207.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2010.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2011.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2013.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%209-crop-u57810.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%208.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u58181.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u58181_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u58191.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u58191_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0856.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0856_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u58870.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u58870_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u58345.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u58345_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l640.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l640_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u577302.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u57730_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u577002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u57700_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings190x127.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings190x127_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy151x127.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy151x127_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u577102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u57710_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel193x180.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel193x180_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%206252x250.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%207224x180.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2010207x169.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2011224x178.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2013208x151.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%209-crop-u578102.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2012208x198.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%208236x187.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u581812.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u58181_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u581912.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u58191_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0856120x160.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0856120x160_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u588702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u58870_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u583352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u583452.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u58345_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l640163x121.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l640163x121_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u583152.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~288x87.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~288x87_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web728x1052.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web728x1052_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u577303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u57730_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u577003.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u57700_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings140x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings140x94_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy112x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy112x94_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u577103.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u57710_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel142x133.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel142x133_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%206186x185.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%207166x133.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2010153x125.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2011166x131.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2013153x112.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%209-crop-u578103.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2012153x146.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%208175x138.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u581813.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u58181_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u581913.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u58191_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_085689x118.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_085689x118_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u588703.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u58870_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u583353.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u583453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u58345_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l640120x90.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l640120x90_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u583153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~265x64.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~265x64_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web537x777.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web537x777_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u577304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/picky-eater-7-crop-u57730_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u577004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_fredfriends_foodface_veg-crop-u57700_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings102x69.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_janejenni_cutesayings102x69_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy81x69.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/untitled-1-copy-copy81x69_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u577104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/dinnerplates_littlestylesmelamineset-crop-u57710_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%206136x135.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2010112x91.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2011121x96.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2013112x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%209-crop-u578104.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%207121x97.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%2012112x107.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/%E5%9B%BE%E5%B1%82%208127x101.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel104x97.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previoussketchmodel104x97_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u581814.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0844-crop-u58181_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u581914.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_0850-crop-u58191_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_085665x86.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/img_085665x86_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u588704.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/jasmines_previousfinalmodel-crop-u58870_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u583354.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u583454.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/1076804767-crop-u58345_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l64088x66.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/s-l64088x66_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u583154.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~247x47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/o-x8me_i-01xqw96vygd)~247x47_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web392x567.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/eatjoy%20for%20web392x567_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/eatjoy-2014.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/galactica-2015.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/picky-eater-7-crop-u57730.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/picky-eater-7-crop-u57730_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_fredfriends_foodface_veg-crop-u57700.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica745x1826.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_fredfriends_foodface_veg-crop-u57700_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica745x1826_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_janejenni_cutesayings.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica550x1348.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_janejenni_cutesayings_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica550x1348_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/untitled-1-copy-copy.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica401x983.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/untitled-1-copy-copy_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_littlestylesmelamineset-crop-u57710.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_littlestylesmelamineset-crop-u57710_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previoussketchmodel.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previoussketchmodel_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%206.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%207.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2010.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2011.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2013.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%209-crop-u57810.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2012.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%208.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0844-crop-u58181.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0844-crop-u58181_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0850-crop-u58191.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0850-crop-u58191_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0856.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0856_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previousfinalmodel-crop-u58870.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previousfinalmodel-crop-u58870_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/1076804767-crop-u58345.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/1076804767-crop-u58345_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/s-l640.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/s-l640_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/o-x8me_i-01xqw96vygd)~2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/o-x8me_i-01xqw96vygd)~2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/eatjoy%20for%20web.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/eatjoy%20for%20web_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/picky-eater-7-crop-u577302.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/picky-eater-7-crop-u57730_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_fredfriends_foodface_veg-crop-u577002.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_fredfriends_foodface_veg-crop-u57700_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_janejenni_cutesayings140x94.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_janejenni_cutesayings140x94_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/untitled-1-copy-copy112x94.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/untitled-1-copy-copy112x94_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_littlestylesmelamineset-crop-u577102.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_littlestylesmelamineset-crop-u57710_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previoussketchmodel142x133.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previoussketchmodel142x133_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%206186x185.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%207166x133.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2010153x125.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2011166x131.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2013153x112.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%209-crop-u578102.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2012153x146.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%208175x138.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0844-crop-u581812.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0844-crop-u58181_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0850-crop-u581912.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0850-crop-u58191_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_085689x118.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_085689x118_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previousfinalmodel-crop-u588702.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previousfinalmodel-crop-u58870_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u583352.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/1076804767-crop-u583452.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/1076804767-crop-u58345_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/s-l640120x90.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/s-l640120x90_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u583152.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/o-x8me_i-01xqw96vygd)~265x64.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/o-x8me_i-01xqw96vygd)~265x64_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/eatjoy%20for%20web537x777.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/eatjoy%20for%20web537x777_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/picky-eater-7-crop-u577303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/picky-eater-7-crop-u57730_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_fredfriends_foodface_veg-crop-u577003.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_fredfriends_foodface_veg-crop-u57700_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_janejenni_cutesayings102x69.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_janejenni_cutesayings102x69_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/untitled-1-copy-copy81x68.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/untitled-1-copy-copy81x68_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_littlestylesmelamineset-crop-u577103.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/dinnerplates_littlestylesmelamineset-crop-u57710_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%206136x135.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2010112x91.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2011121x96.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2013112x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%209-crop-u578103.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%207121x97.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%2012112x107.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/%E5%9B%BE%E5%B1%82%208127x101.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previoussketchmodel104x97.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previoussketchmodel104x97_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0844-crop-u581813.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0844-crop-u58181_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0850-crop-u581913.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_0850-crop-u58191_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_085665x86.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/img_085665x86_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previousfinalmodel-crop-u588703.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/jasmines_previousfinalmodel-crop-u58870_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u583353.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/4db32ff0172877597200f58f3f50db2aimage550x550-crop-u58335_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/1076804767-crop-u583453.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/1076804767-crop-u58345_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/s-l64088x66.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/s-l64088x66_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u583153.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/qq%E6%88%AA%E5%9B%BE20121101222847-crop-u58315_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/o-x8me_i-01xqw96vygd)~247x47.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/o-x8me_i-01xqw96vygd)~247x47_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/eatjoy%20for%20web392x567.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/eatjoy%20for%20web392x567_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/glactica401x983_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/galactica-2015.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <loc>http://jasdesign.us/loop-2016.html</loc>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
+      <image:loc>http://jasdesign.us/images/115p%20js%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/glactica.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/loop.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/glactica_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/loop_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/glactica550x1348.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/loop682x1926.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/glactica550x1348_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/loop682x1926_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/glactica401x983.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/loop-crop-u59955.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasdesign.github.io/images/glactica401x983_2x.jpg</image:loc>
+      <image:loc>http://jasdesign.us/images/loop-crop-u59955_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/loop367x1037.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasdesign.us/images/loop367x1037_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/loop-2016.html</loc>
-    <lastmod>2018-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/115p%20js%20logo%20white_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/loop2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/loop_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/loop-crop-u59955.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/loop-crop-u59955_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/loop367x1037.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasdesign.github.io/images/loop367x1037_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://jasdesign.github.io/assets/77fb424e091cd00334e5036c8d1f0cb4.webm</loc>
+    <loc>http://jasdesign.us/assets/77fb424e091cd00334e5036c8d1f0cb4.webm</loc>
     <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/a4988805ca2460896be45c2c26fa7576.ogv</loc>
+    <loc>http://jasdesign.us/assets/a4988805ca2460896be45c2c26fa7576.ogv</loc>
     <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/2.pdf</loc>
+    <loc>http://jasdesign.us/assets/2.pdf</loc>
     <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/$-f24_12_88.mp4</loc>
+    <loc>http://jasdesign.us/assets/$-f24_12_88.mp4</loc>
     <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/d6c4dc05f21d6307f99d83fc098b6e1b-(1).ogv</loc>
+    <loc>http://jasdesign.us/assets/d6c4dc05f21d6307f99d83fc098b6e1b-(1).ogv</loc>
     <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/446519a38cf3197ca9d384ac3dc59c9e.webm</loc>
+    <loc>http://jasdesign.us/assets/446519a38cf3197ca9d384ac3dc59c9e.webm</loc>
     <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/final-liquid-lines_1.mp4</loc>
+    <loc>http://jasdesign.us/assets/final-liquid-lines_1.mp4</loc>
     <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/$-f24_12_88.jpg</loc>
+    <loc>http://jasdesign.us/assets/$-f24_12_88.jpg</loc>
     <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jasdesign.github.io/assets/final-js-logo.mp4_snapshot_00.03_-2018.01.16_17.22.38-.jpg</loc>
+    <loc>http://jasdesign.us/assets/final-js-logo.mp4_snapshot_00.03_-2018.01.16_17.22.38-.jpg</loc>
     <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
