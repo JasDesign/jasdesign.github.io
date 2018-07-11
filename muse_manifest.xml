@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1531342450402">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1531343648221">
   <folder name="css">
     <file name="site_global.css" crc="4085125713"/>
     <file name="master_projects.css" crc="453418364" ref="bamboo-2013:yuki-2018:unit-08-13:fire-lounge-2018:aro-2017:insight-14:fin-2015:mist-2016:galactica-2015:loop-2016:eatjoy-2014:resume"/>
@@ -15,7 +15,7 @@
     <file name="nomq_yuki-2018.css" crc="4253740417" ref="yuki-2018"/>
     <file name="unit-08-13.css" crc="4218746509" ref="unit-08-13"/>
     <file name="nomq_unit-08-13.css" crc="4214128256" ref="unit-08-13"/>
-    <file name="fire-lounge-2018.css" crc="377332563" ref="fire-lounge-2018"/>
+    <file name="fire-lounge-2018.css" crc="4192179029" ref="fire-lounge-2018"/>
     <file name="nomq_fire-lounge-2018.css" crc="4045189291" ref="fire-lounge-2018"/>
     <file name="aro-2017.css" crc="519750445" ref="aro-2017"/>
     <file name="nomq_aro-2017.css" crc="4066934409" ref="aro-2017"/>
@@ -29,7 +29,7 @@
     <file name="nomq_mist-2016.css" crc="4025092264" ref="mist-2016"/>
     <file name="galactica-2015.css" crc="4104854632" ref="galactica-2015"/>
     <file name="nomq_galactica-2015.css" crc="4067348715" ref="galactica-2015"/>
-    <file name="contact.css" crc="232463372" ref="contact"/>
+    <file name="contact.css" crc="4253381779" ref="contact"/>
     <file name="nomq_contact.css" crc="4094703512" ref="contact"/>
     <file name="loop-2016.css" crc="46418999" ref="loop-2016"/>
     <file name="nomq_loop-2016.css" crc="4215162974" ref="loop-2016"/>
@@ -482,7 +482,7 @@
     <file name="living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x4.jpg" crc="3471132" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="fire-dance-crop-u349834.jpg" crc="6343511" seo="true" ref="fire-lounge-2018">
+    <file name="fire-dance-crop-u349834.jpg" crc="3823062555" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
     <file name="fire-dance-crop-u34983_2x4.jpg" crc="146785067" seo="true" ref="fire-lounge-2018">
@@ -569,7 +569,7 @@
     <file name="pasted image 609x360-crop-u40325.jpg" crc="143106404" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="pasted image 267x354-crop-u47286.jpg" crc="535376757" seo="true" ref="aro-2017">
+    <file name="pasted image 267x354-crop-u47286.jpg" crc="485006763" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 353x266-crop-u47295.jpg" crc="4230386618" seo="true" ref="aro-2017">
@@ -599,7 +599,7 @@
     <file name="87154-200-u41833.png" crc="4294963309" ref="aro-2017"/>
     <file name="36204-u41843.png" crc="4072770284" ref="aro-2017"/>
     <file name="36204-u41843_2x.png" crc="293184235" ref="aro-2017"/>
-    <file name="herbs-ksng--621x414@livemint-crop-u41871.jpg" crc="432747682" seo="true" ref="aro-2017">
+    <file name="herbs-ksng--621x414@livemint-crop-u41871.jpg" crc="455822218" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="add_plus.png" crc="3988893840" seo="true" ref="aro-2017">
@@ -640,7 +640,7 @@
     <file name="pasted image 288x357_2x.jpg" crc="4270357745" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="pasted image 385x353-crop-u45559.jpg" crc="396474588" seo="true" ref="aro-2017">
+    <file name="pasted image 385x353-crop-u45559.jpg" crc="183419517" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 280x209-crop-u45604.jpg" crc="3977917629" seo="true" ref="aro-2017">
@@ -724,7 +724,7 @@
     <file name="a_page_18-crop-u46718_2x.jpg" crc="4264884895" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="aro-bench-form large-crop-u47862.png" crc="50888281" seo="true" ref="aro-2017">
+    <file name="aro-bench-form large-crop-u47862.png" crc="4291439436" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="sketches.jpg" crc="4070840131" seo="true" ref="aro-2017">
@@ -754,7 +754,7 @@
     <file name="pasted image 335x189.jpg" crc="457411237" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="pasted image 327x222-crop-u48158.jpg" crc="165083226" seo="true" ref="aro-2017">
+    <file name="pasted image 327x222-crop-u48158.jpg" crc="4030446205" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="7c2c27b6857b273d551934450773d26c.jpg" crc="140548310" seo="true" ref="aro-2017">
@@ -863,7 +863,7 @@
     <file name="pasted image 392x294.jpg" crc="3791247249" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="layer 1-crop-u55334.png" crc="314471089" seo="true" ref="aro-2017">
+    <file name="layer 1-crop-u55334.png" crc="3810870944" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 295x238-crop-u55353.jpg" crc="527910192" seo="true" ref="aro-2017">
@@ -945,7 +945,7 @@
       <caption webpage="aro-2017" alt=""/>
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="pasted image 609x360-crop-u403252.jpg" crc="9775046" seo="true" ref="aro-2017">
+    <file name="pasted image 609x360-crop-u403252.jpg" crc="4055792504" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 267x354-crop-u472862.jpg" crc="352626270" seo="true" ref="aro-2017">
@@ -1103,7 +1103,7 @@
     <file name="a_page_18-crop-u46718_2x2.jpg" crc="4180736174" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="aro-bench-form large-crop-u478622.png" crc="3879399801" seo="true" ref="aro-2017">
+    <file name="aro-bench-form large-crop-u478622.png" crc="322298303" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="sketches932x117.jpg" crc="4176897598" seo="true" ref="aro-2017">
@@ -1417,7 +1417,7 @@
     <file name="a_page_18-crop-u46718_2x3.jpg" crc="3994492707" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="aro-bench-form large-crop-u478623.png" crc="462170595" seo="true" ref="aro-2017">
+    <file name="aro-bench-form large-crop-u478623.png" crc="165973888" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="sketches688x87.jpg" crc="318332293" seo="true" ref="aro-2017">
@@ -2501,7 +2501,7 @@
     <file name="loop682x1926_2x.png" crc="110313104" seo="true" ref="loop-2016">
       <caption webpage="loop-2016" alt=""/>
     </file>
-    <file name="loop-crop-u59955.png" crc="75097709" seo="true" ref="loop-2016">
+    <file name="loop-crop-u59955.png" crc="3831376940" seo="true" ref="loop-2016">
       <caption webpage="loop-2016" alt=""/>
     </file>
     <file name="loop-crop-u59955_2x.png" crc="75821901" seo="true" ref="loop-2016">
@@ -2525,7 +2525,7 @@
     <file name="capture_2x.jpg" crc="3818300579" seo="true" ref="mist-2016">
       <caption webpage="mist-2016" alt=""/>
     </file>
-    <file name="buildingswiresfogsfbw20120804-crop-u60049.jpg" crc="272174982" seo="true" ref="mist-2016">
+    <file name="buildingswiresfogsfbw20120804-crop-u60049.jpg" crc="4224355927" seo="true" ref="mist-2016">
       <caption webpage="mist-2016" alt=""/>
     </file>
     <file name="buildingswiresfogsfbw20120804-crop-u60049_2x.jpg" crc="967494" seo="true" ref="mist-2016">
@@ -2778,20 +2778,20 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3773324783" seo="true" mt="1530607834077" redirect="true"/>
-  <file name="contact.html" crc="4206361056" seo="true" mt="1530604870320" redirect="true"/>
-  <file name="portfolio.html" crc="4288436089" seo="true" mt="1530607242063" redirect="true"/>
-  <file name="fire-lounge-2018.html" crc="230428624" seo="true" mt="1530603618398" redirect="true"/>
-  <file name="aro-2017.html" crc="78052236" seo="true" mt="1530603618398" redirect="true"/>
-  <file name="yuki-2018.html" crc="4091201998" seo="true" mt="1530603618398" redirect="true"/>
-  <file name="bamboo-2013.html" crc="99409575" seo="true" mt="1530603842803" redirect="true"/>
-  <file name="eatjoy-2014.html" crc="3852277179" seo="true" mt="1530603908682" redirect="true"/>
-  <file name="galactica-2015.html" crc="472997848" seo="true" mt="1530603752272" redirect="true"/>
-  <file name="loop-2016.html" crc="3848721895" seo="true" mt="1530603768424" redirect="true"/>
-  <file name="mist-2016.html" crc="329998436" seo="true" mt="1530606054733" redirect="true"/>
-  <file name="fin-2015.html" crc="173803032" seo="true" mt="1530603808615" redirect="true"/>
-  <file name="insight-14.html" crc="70718706" seo="true" mt="1530603962552" redirect="true"/>
-  <file name="unit-08-13.html" crc="4114540473" seo="true" mt="1530603933642" redirect="true"/>
-  <file name="about.html" crc="334292580" seo="true" mt="1530605096555" redirect="true"/>
+  <file name="index.html" crc="470274360" seo="true" mt="1530607834077" redirect="true"/>
+  <file name="contact.html" crc="3851103347" seo="true" mt="1530604870320" redirect="true"/>
+  <file name="portfolio.html" crc="25215617" seo="true" mt="1530607242063" redirect="true"/>
+  <file name="fire-lounge-2018.html" crc="3988118266" seo="true" mt="1530603618398" redirect="true"/>
+  <file name="aro-2017.html" crc="256854513" seo="true" mt="1530603618398" redirect="true"/>
+  <file name="yuki-2018.html" crc="3982504656" seo="true" mt="1530603618398" redirect="true"/>
+  <file name="bamboo-2013.html" crc="3946562289" seo="true" mt="1530603842803" redirect="true"/>
+  <file name="eatjoy-2014.html" crc="515107953" seo="true" mt="1530603908682" redirect="true"/>
+  <file name="galactica-2015.html" crc="3822960164" seo="true" mt="1530603752272" redirect="true"/>
+  <file name="loop-2016.html" crc="297302693" seo="true" mt="1530603768424" redirect="true"/>
+  <file name="mist-2016.html" crc="525339426" seo="true" mt="1530606054733" redirect="true"/>
+  <file name="fin-2015.html" crc="130686855" seo="true" mt="1530603808615" redirect="true"/>
+  <file name="insight-14.html" crc="3760612778" seo="true" mt="1530603962552" redirect="true"/>
+  <file name="unit-08-13.html" crc="4222561327" seo="true" mt="1530603933642" redirect="true"/>
+  <file name="about.html" crc="137677835" seo="true" mt="1530605096555" redirect="true"/>
   <file name="resume.html" crc="3897046714" seo="true" mt="1531340865136" redirect="true"/>
 </manifest>
