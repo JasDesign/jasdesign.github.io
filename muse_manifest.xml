@@ -1,44 +1,44 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1530607461319">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1531342450402">
   <folder name="css">
     <file name="site_global.css" crc="4085125713"/>
-    <file name="master_master-page-02.css" crc="4265335205" ref="portfolio:contact:about"/>
-    <file name="nomq_preview_master_master-page-02.css" crc="186454065" ref="portfolio:contact:about"/>
-    <file name="master_master-page.css" crc="4074349985" ref="index"/>
-    <file name="nomq_preview_master_master-page.css" crc="4287911191" ref="index"/>
-    <file name="master_projects.css" crc="293276424" ref="unit-08-13:mist-2016:resume:eatjoy-2014:galactica-2015:aro-2017:fin-2015:bamboo-2013:insight-14:loop-2016:fire-lounge-2018:yuki-2018"/>
-    <file name="nomq_preview_master_projects.css" crc="309826765" ref="unit-08-13:mist-2016:resume:eatjoy-2014:galactica-2015:aro-2017:fin-2015:bamboo-2013:insight-14:loop-2016:fire-lounge-2018:yuki-2018"/>
-    <file name="unit-08-13.css" crc="11260735" ref="unit-08-13"/>
-    <file name="nomq_unit-08-13.css" crc="4214128256" ref="unit-08-13"/>
-    <file name="portfolio.css" crc="3912602097" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="303598988" ref="portfolio"/>
-    <file name="mist-2016.css" crc="3772267071" ref="mist-2016"/>
-    <file name="nomq_mist-2016.css" crc="4025092264" ref="mist-2016"/>
-    <file name="resume.css" crc="484484224" ref="resume"/>
-    <file name="nomq_resume.css" crc="524816683" ref="resume"/>
-    <file name="contact.css" crc="4165847384" ref="contact"/>
-    <file name="nomq_contact.css" crc="4094703512" ref="contact"/>
-    <file name="eatjoy-2014.css" crc="3842315004" ref="eatjoy-2014"/>
-    <file name="nomq_eatjoy-2014.css" crc="504778798" ref="eatjoy-2014"/>
-    <file name="galactica-2015.css" crc="441809550" ref="galactica-2015"/>
-    <file name="nomq_galactica-2015.css" crc="4067348715" ref="galactica-2015"/>
-    <file name="aro-2017.css" crc="22720359" ref="aro-2017"/>
-    <file name="nomq_aro-2017.css" crc="4066934409" ref="aro-2017"/>
-    <file name="fin-2015.css" crc="317305177" ref="fin-2015"/>
-    <file name="nomq_fin-2015.css" crc="459877546" ref="fin-2015"/>
-    <file name="bamboo-2013.css" crc="132924609" ref="bamboo-2013"/>
+    <file name="master_projects.css" crc="453418364" ref="bamboo-2013:yuki-2018:unit-08-13:fire-lounge-2018:aro-2017:insight-14:fin-2015:mist-2016:galactica-2015:loop-2016:eatjoy-2014:resume"/>
+    <file name="nomq_preview_master_projects.css" crc="309826765" ref="bamboo-2013:yuki-2018:unit-08-13:fire-lounge-2018:aro-2017:insight-14:fin-2015:mist-2016:galactica-2015:loop-2016:eatjoy-2014:resume"/>
+    <file name="master_master-page-02.css" crc="176555012" ref="about:contact:portfolio"/>
+    <file name="nomq_preview_master_master-page-02.css" crc="443816713" ref="about:contact:portfolio"/>
+    <file name="master_master-page.css" crc="4200033192" ref="index"/>
+    <file name="nomq_preview_master_master-page.css" crc="4164686145" ref="index"/>
+    <file name="bamboo-2013.css" crc="245896896" ref="bamboo-2013"/>
     <file name="nomq_bamboo-2013.css" crc="460584313" ref="bamboo-2013"/>
-    <file name="insight-14.css" crc="3778895179" ref="insight-14"/>
-    <file name="nomq_insight-14.css" crc="174075590" ref="insight-14"/>
-    <file name="loop-2016.css" crc="75219341" ref="loop-2016"/>
-    <file name="nomq_loop-2016.css" crc="4215162974" ref="loop-2016"/>
-    <file name="fire-lounge-2018.css" crc="4001341731" ref="fire-lounge-2018"/>
-    <file name="nomq_fire-lounge-2018.css" crc="4045189291" ref="fire-lounge-2018"/>
-    <file name="about.css" crc="3902158487" ref="about"/>
-    <file name="nomq_about.css" crc="4084641996" ref="about"/>
-    <file name="index.css" crc="433114333" ref="index"/>
-    <file name="nomq_index.css" crc="131662595" ref="index"/>
-    <file name="yuki-2018.css" crc="4093405936" ref="yuki-2018"/>
+    <file name="about.css" crc="348415349" ref="about"/>
+    <file name="nomq_about.css" crc="4080560634" ref="about"/>
+    <file name="yuki-2018.css" crc="3989568091" ref="yuki-2018"/>
     <file name="nomq_yuki-2018.css" crc="4253740417" ref="yuki-2018"/>
+    <file name="unit-08-13.css" crc="4218746509" ref="unit-08-13"/>
+    <file name="nomq_unit-08-13.css" crc="4214128256" ref="unit-08-13"/>
+    <file name="fire-lounge-2018.css" crc="377332563" ref="fire-lounge-2018"/>
+    <file name="nomq_fire-lounge-2018.css" crc="4045189291" ref="fire-lounge-2018"/>
+    <file name="aro-2017.css" crc="519750445" ref="aro-2017"/>
+    <file name="nomq_aro-2017.css" crc="4066934409" ref="aro-2017"/>
+    <file name="insight-14.css" crc="294186615" ref="insight-14"/>
+    <file name="nomq_insight-14.css" crc="174075590" ref="insight-14"/>
+    <file name="index.css" crc="3896087343" ref="index"/>
+    <file name="nomq_index.css" crc="440834518" ref="index"/>
+    <file name="fin-2015.css" crc="95234340" ref="fin-2015"/>
+    <file name="nomq_fin-2015.css" crc="459877546" ref="fin-2015"/>
+    <file name="mist-2016.css" crc="3888761398" ref="mist-2016"/>
+    <file name="nomq_mist-2016.css" crc="4025092264" ref="mist-2016"/>
+    <file name="galactica-2015.css" crc="4104854632" ref="galactica-2015"/>
+    <file name="nomq_galactica-2015.css" crc="4067348715" ref="galactica-2015"/>
+    <file name="contact.css" crc="232463372" ref="contact"/>
+    <file name="nomq_contact.css" crc="4094703512" ref="contact"/>
+    <file name="loop-2016.css" crc="46418999" ref="loop-2016"/>
+    <file name="nomq_loop-2016.css" crc="4215162974" ref="loop-2016"/>
+    <file name="eatjoy-2014.css" crc="4165659560" ref="eatjoy-2014"/>
+    <file name="nomq_eatjoy-2014.css" crc="504778798" ref="eatjoy-2014"/>
+    <file name="resume.css" crc="4132717042" ref="resume"/>
+    <file name="nomq_resume.css" crc="323826516" ref="resume"/>
+    <file name="portfolio.css" crc="4112857246" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="303598988" ref="portfolio"/>
   </folder>
   <folder name="assets">
     <file name="77fb424e091cd00334e5036c8d1f0cb4.webm" crc="3837752685" seo="true" mt="1516161052000"/>
@@ -110,68 +110,64 @@
     </file>
     <file name="115p js logo white.png" crc="4180341506" seo="true" ref="index:contact:portfolio:about">
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="115p js logo white_2x.png" crc="57682572" seo="true" ref="index:contact:portfolio:about">
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-    </file>
-    <file name="115p js logo white40x28.png" crc="475973012" seo="true" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="115p js logo white40x28_2x.png" crc="57682572" seo="true" ref="index:portfolio">
+    <file name="115p js logo white40x28.png" crc="475973012" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="115p js logo white40x28_2x.png" crc="57682572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="scoll icon-u25755-fr.png" crc="337676995" ref="index"/>
     <file name="scoll icon-u25755-fr_2x.png" crc="4244647359" ref="index"/>
-    <file name="115p js logo white29x20.png" crc="4111500382" seo="true" ref="index:portfolio">
+    <file name="115p js logo white29x20.png" crc="4111500382" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="115p js logo white29x20_2x.png" crc="4090852552" seo="true" ref="index:portfolio">
+    <file name="115p js logo white29x20_2x.png" crc="4090852552" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="scoll icon-u25755-fr2.png" crc="285259388" ref="index"/>
     <file name="scoll icon-u25755-fr_2x2.png" crc="492561714" ref="index"/>
     <file name="f24_11mp4_snapshot_0003_-20180206_211358-.jpg" crc="3953800182" ref="contact:portfolio:about">
       <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="f24_11mp4_snapshot_0003_-20180206_211358-2.jpg" crc="531063697" ref="contact:portfolio:about">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="f24_11mp4_snapshot_0003_-20180206_211358-_2x.jpg" crc="3953800182" ref="contact:portfolio:about">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="df.jpg" crc="4038433008" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -226,30 +222,30 @@
     <file name="fin-buttonu34037-fr.jpg" crc="3946493102" ref="portfolio"/>
     <file name="fin-buttonu34037-fr_2x.jpg" crc="519284648" ref="portfolio"/>
     <file name="115p js logo.png" crc="3765569365" seo="true" ref="fire-lounge-2018:aro-2017:yuki-2018:bamboo-2013:eatjoy-2014:galactica-2015:loop-2016:mist-2016:fin-2015:insight-14:unit-08-13">
-      <caption webpage="bamboo-2013" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
+      <caption webpage="galactica-2015" alt=""/>
+      <caption webpage="insight-14" alt=""/>
       <caption webpage="eatjoy-2014" alt=""/>
+      <caption webpage="bamboo-2013" alt=""/>
+      <caption webpage="loop-2016" alt=""/>
+      <caption webpage="aro-2017" alt=""/>
       <caption webpage="fin-2015" alt=""/>
       <caption webpage="unit-08-13" alt=""/>
-      <caption webpage="galactica-2015" alt=""/>
-      <caption webpage="loop-2016" alt=""/>
       <caption webpage="yuki-2018" alt=""/>
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="insight-14" alt=""/>
-      <caption webpage="aro-2017" alt=""/>
+      <caption webpage="mist-2016" alt=""/>
     </file>
     <file name="115p js logo_2x.png" crc="33101251" seo="true" ref="fire-lounge-2018:aro-2017:yuki-2018:bamboo-2013:eatjoy-2014:galactica-2015:loop-2016:mist-2016:fin-2015:insight-14:unit-08-13">
-      <caption webpage="bamboo-2013" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
+      <caption webpage="galactica-2015" alt=""/>
+      <caption webpage="insight-14" alt=""/>
       <caption webpage="eatjoy-2014" alt=""/>
+      <caption webpage="bamboo-2013" alt=""/>
+      <caption webpage="loop-2016" alt=""/>
+      <caption webpage="aro-2017" alt=""/>
       <caption webpage="fin-2015" alt=""/>
       <caption webpage="unit-08-13" alt=""/>
-      <caption webpage="galactica-2015" alt=""/>
-      <caption webpage="loop-2016" alt=""/>
       <caption webpage="yuki-2018" alt=""/>
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="insight-14" alt=""/>
-      <caption webpage="aro-2017" alt=""/>
+      <caption webpage="mist-2016" alt=""/>
     </file>
     <file name="layer 13.png" crc="3781921368" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
@@ -315,13 +311,11 @@
     <file name="romance-810x333-crop-u34941_2x.jpg" crc="4024430197" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="115p js logo46x32.png" crc="291427182" seo="true" ref="fire-lounge-2018:mist-2016">
+    <file name="115p js logo46x32.png" crc="291427182" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
     </file>
-    <file name="115p js logo46x32_2x.png" crc="87927223" seo="true" ref="fire-lounge-2018:mist-2016">
+    <file name="115p js logo46x32_2x.png" crc="87927223" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
     </file>
     <file name="layer 131119x572.png" crc="4137702400" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
@@ -437,13 +431,11 @@
     <file name="romance-810x333-crop-u34941_2x3.jpg" crc="4078914257" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="115p js logo40x28.png" crc="195337475" seo="true" ref="fire-lounge-2018:mist-2016">
+    <file name="115p js logo40x28.png" crc="195337475" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
     </file>
-    <file name="115p js logo40x28_2x.png" crc="4037970895" seo="true" ref="fire-lounge-2018:mist-2016">
+    <file name="115p js logo40x28_2x.png" crc="4037970895" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
     </file>
     <file name="demension658x195.jpg" crc="3821301518" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
@@ -490,7 +482,7 @@
     <file name="living-room-furniture-modern-italian-style-family-room-tv-wall-cabinet-living-room-modern-furniture-l-39c014ef62b00d34-crop-u34995_2x4.jpg" crc="3471132" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="fire-dance-crop-u349834.jpg" crc="3823062555" seo="true" ref="fire-lounge-2018">
+    <file name="fire-dance-crop-u349834.jpg" crc="6343511" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
     <file name="fire-dance-crop-u34983_2x4.jpg" crc="146785067" seo="true" ref="fire-lounge-2018">
@@ -502,13 +494,11 @@
     <file name="romance-810x333-crop-u34941_2x4.jpg" crc="4183822387" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="115p js logo29x20.png" crc="3879897087" seo="true" ref="fire-lounge-2018:mist-2016">
+    <file name="115p js logo29x20.png" crc="3879897087" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
     </file>
-    <file name="115p js logo29x20_2x.png" crc="4133512767" seo="true" ref="fire-lounge-2018:mist-2016">
+    <file name="115p js logo29x20_2x.png" crc="4133512767" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
-      <caption webpage="mist-2016" alt=""/>
     </file>
     <file name="fire lounge p04477x608.jpg" crc="240810094" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
@@ -594,10 +584,10 @@
     <file name="pasted image 353x278.jpg" crc="315959982" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="in_soft-crop-u47332.jpg" crc="4190592873" seo="true" ref="aro-2017">
+    <file name="in_soft-crop-u47332.jpg" crc="381552228" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="in_soft-crop-u47332_2x.jpg" crc="434795894" seo="true" ref="aro-2017">
+    <file name="in_soft-crop-u47332_2x.jpg" crc="3889754245" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="scenter-2-crop-u47342.jpg" crc="276645335" seo="true" ref="aro-2017">
@@ -734,7 +724,7 @@
     <file name="a_page_18-crop-u46718_2x.jpg" crc="4264884895" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="aro-bench-form large-crop-u47862.png" crc="4291439436" seo="true" ref="aro-2017">
+    <file name="aro-bench-form large-crop-u47862.png" crc="50888281" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="sketches.jpg" crc="4070840131" seo="true" ref="aro-2017">
@@ -955,7 +945,7 @@
       <caption webpage="aro-2017" alt=""/>
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="pasted image 609x360-crop-u403252.jpg" crc="4055792504" seo="true" ref="aro-2017">
+    <file name="pasted image 609x360-crop-u403252.jpg" crc="9775046" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="pasted image 267x354-crop-u472862.jpg" crc="352626270" seo="true" ref="aro-2017">
@@ -973,10 +963,10 @@
     <file name="pasted image 353x278194x153.jpg" crc="138895403" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="in_soft-crop-u473322.jpg" crc="4274899391" seo="true" ref="aro-2017">
+    <file name="in_soft-crop-u473322.jpg" crc="4052035206" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="in_soft-crop-u47332_2x2.jpg" crc="4202561538" seo="true" ref="aro-2017">
+    <file name="in_soft-crop-u47332_2x2.jpg" crc="324276032" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="scenter-2-crop-u473422.jpg" crc="3932535924" seo="true" ref="aro-2017">
@@ -1113,7 +1103,7 @@
     <file name="a_page_18-crop-u46718_2x2.jpg" crc="4180736174" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="aro-bench-form large-crop-u478622.png" crc="322298303" seo="true" ref="aro-2017">
+    <file name="aro-bench-form large-crop-u478622.png" crc="3879399801" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="sketches932x117.jpg" crc="4176897598" seo="true" ref="aro-2017">
@@ -1287,7 +1277,7 @@
     <file name="pasted image 353x278143x113.jpg" crc="4254192728" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="in_soft-crop-u473323.jpg" crc="483562276" seo="true" ref="aro-2017">
+    <file name="in_soft-crop-u473323.jpg" crc="306425421" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="in_soft-crop-u47332_2x3.jpg" crc="421423044" seo="true" ref="aro-2017">
@@ -1427,7 +1417,7 @@
     <file name="a_page_18-crop-u46718_2x3.jpg" crc="3994492707" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="aro-bench-form large-crop-u478623.png" crc="165973888" seo="true" ref="aro-2017">
+    <file name="aro-bench-form large-crop-u478623.png" crc="462170595" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="sketches688x87.jpg" crc="318332293" seo="true" ref="aro-2017">
@@ -1596,10 +1586,10 @@
     <file name="pasted image 353x278105x83.jpg" crc="457147550" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="in_soft-crop-u473324.jpg" crc="19737210" seo="true" ref="aro-2017">
+    <file name="in_soft-crop-u473324.jpg" crc="4172111327" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
-    <file name="in_soft-crop-u47332_2x4.jpg" crc="445799334" seo="true" ref="aro-2017">
+    <file name="in_soft-crop-u47332_2x4.jpg" crc="448695336" seo="true" ref="aro-2017">
       <caption webpage="aro-2017" alt=""/>
     </file>
     <file name="scenter-2-crop-u473424.jpg" crc="226358558" seo="true" ref="aro-2017">
@@ -2511,10 +2501,10 @@
     <file name="loop682x1926_2x.png" crc="110313104" seo="true" ref="loop-2016">
       <caption webpage="loop-2016" alt=""/>
     </file>
-    <file name="loop-crop-u59955.png" crc="433825742" seo="true" ref="loop-2016">
+    <file name="loop-crop-u59955.png" crc="75097709" seo="true" ref="loop-2016">
       <caption webpage="loop-2016" alt=""/>
     </file>
-    <file name="loop-crop-u59955_2x.png" crc="260847939" seo="true" ref="loop-2016">
+    <file name="loop-crop-u59955_2x.png" crc="75821901" seo="true" ref="loop-2016">
       <caption webpage="loop-2016" alt=""/>
     </file>
     <file name="loop367x1037.png" crc="4284986290" seo="true" ref="loop-2016">
@@ -2535,7 +2525,7 @@
     <file name="capture_2x.jpg" crc="3818300579" seo="true" ref="mist-2016">
       <caption webpage="mist-2016" alt=""/>
     </file>
-    <file name="buildingswiresfogsfbw20120804-crop-u60049.jpg" crc="4224355927" seo="true" ref="mist-2016">
+    <file name="buildingswiresfogsfbw20120804-crop-u60049.jpg" crc="272174982" seo="true" ref="mist-2016">
       <caption webpage="mist-2016" alt=""/>
     </file>
     <file name="buildingswiresfogsfbw20120804-crop-u60049_2x.jpg" crc="967494" seo="true" ref="mist-2016">
@@ -2788,20 +2778,20 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="529420886" seo="true" mt="1530605289274" redirect="true"/>
-  <file name="contact.html" crc="494635885" seo="true" mt="1530604870320" redirect="true"/>
-  <file name="portfolio.html" crc="4123755303" seo="true" mt="1530607242063" redirect="true"/>
-  <file name="fire-lounge-2018.html" crc="219903746" seo="true" mt="1530603618398" redirect="true"/>
-  <file name="aro-2017.html" crc="324539276" seo="true" mt="1530603618398" redirect="true"/>
-  <file name="yuki-2018.html" crc="131445395" seo="true" mt="1530603618398" redirect="true"/>
-  <file name="bamboo-2013.html" crc="111834179" seo="true" mt="1530603842803" redirect="true"/>
-  <file name="eatjoy-2014.html" crc="3804525597" seo="true" mt="1530603908682" redirect="true"/>
-  <file name="galactica-2015.html" crc="388321947" seo="true" mt="1530603752272" redirect="true"/>
-  <file name="loop-2016.html" crc="98089336" seo="true" mt="1530603768424" redirect="true"/>
-  <file name="mist-2016.html" crc="53583359" seo="true" mt="1530606054733" redirect="true"/>
-  <file name="fin-2015.html" crc="4152405362" seo="true" mt="1530603808615" redirect="true"/>
-  <file name="insight-14.html" crc="3842256976" seo="true" mt="1530603962552" redirect="true"/>
-  <file name="unit-08-13.html" crc="127993146" seo="true" mt="1530603933642" redirect="true"/>
-  <file name="about.html" crc="79353253" seo="true" mt="1530605096555" redirect="true"/>
-  <file name="resume.html" crc="4177423710" seo="true" mt="1530603997084" redirect="true"/>
+  <file name="index.html" crc="3773324783" seo="true" mt="1530607834077" redirect="true"/>
+  <file name="contact.html" crc="4206361056" seo="true" mt="1530604870320" redirect="true"/>
+  <file name="portfolio.html" crc="4288436089" seo="true" mt="1530607242063" redirect="true"/>
+  <file name="fire-lounge-2018.html" crc="230428624" seo="true" mt="1530603618398" redirect="true"/>
+  <file name="aro-2017.html" crc="78052236" seo="true" mt="1530603618398" redirect="true"/>
+  <file name="yuki-2018.html" crc="4091201998" seo="true" mt="1530603618398" redirect="true"/>
+  <file name="bamboo-2013.html" crc="99409575" seo="true" mt="1530603842803" redirect="true"/>
+  <file name="eatjoy-2014.html" crc="3852277179" seo="true" mt="1530603908682" redirect="true"/>
+  <file name="galactica-2015.html" crc="472997848" seo="true" mt="1530603752272" redirect="true"/>
+  <file name="loop-2016.html" crc="3848721895" seo="true" mt="1530603768424" redirect="true"/>
+  <file name="mist-2016.html" crc="329998436" seo="true" mt="1530606054733" redirect="true"/>
+  <file name="fin-2015.html" crc="173803032" seo="true" mt="1530603808615" redirect="true"/>
+  <file name="insight-14.html" crc="70718706" seo="true" mt="1530603962552" redirect="true"/>
+  <file name="unit-08-13.html" crc="4114540473" seo="true" mt="1530603933642" redirect="true"/>
+  <file name="about.html" crc="334292580" seo="true" mt="1530605096555" redirect="true"/>
+  <file name="resume.html" crc="3897046714" seo="true" mt="1531340865136" redirect="true"/>
 </manifest>
