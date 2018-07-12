@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1531353947101">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1531354953605">
   <folder name="css">
     <file name="site_global.css" crc="4085125713"/>
     <file name="master_projects.css" crc="101535914" ref="bamboo-2013:yuki-2018:unit-08-13:fire-lounge-2018:aro-2017:insight-14:fin-2015:mist-2016:galactica-2015:loop-2016:eatjoy-2014:resume"/>
@@ -2799,5 +2799,5 @@
   <file name="insight-14.html" crc="3760612778" seo="true" mt="1530603962552" redirect="true"/>
   <file name="unit-08-13.html" crc="4222561327" seo="true" mt="1530603933642" redirect="true"/>
   <file name="about.html" crc="137677835" seo="true" mt="1530605096555" redirect="true"/>
-  <file name="resume.html" crc="3920776507" seo="true" mt="1531353792081" redirect="true"/>
+  <file name="resume.html" crc="101955952" seo="true" mt="1531354865491" redirect="true"/>
 </manifest>
