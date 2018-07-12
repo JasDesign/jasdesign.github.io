@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1531343648221">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasdesign.us" resolutions="1x,2x" timestamp="1531353947101">
   <folder name="css">
     <file name="site_global.css" crc="4085125713"/>
-    <file name="master_projects.css" crc="453418364" ref="bamboo-2013:yuki-2018:unit-08-13:fire-lounge-2018:aro-2017:insight-14:fin-2015:mist-2016:galactica-2015:loop-2016:eatjoy-2014:resume"/>
+    <file name="master_projects.css" crc="101535914" ref="bamboo-2013:yuki-2018:unit-08-13:fire-lounge-2018:aro-2017:insight-14:fin-2015:mist-2016:galactica-2015:loop-2016:eatjoy-2014:resume"/>
     <file name="nomq_preview_master_projects.css" crc="309826765" ref="bamboo-2013:yuki-2018:unit-08-13:fire-lounge-2018:aro-2017:insight-14:fin-2015:mist-2016:galactica-2015:loop-2016:eatjoy-2014:resume"/>
     <file name="master_master-page-02.css" crc="176555012" ref="about:contact:portfolio"/>
     <file name="nomq_preview_master_master-page-02.css" crc="443816713" ref="about:contact:portfolio"/>
@@ -311,11 +311,13 @@
     <file name="romance-810x333-crop-u34941_2x.jpg" crc="4024430197" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="115p js logo46x32.png" crc="291427182" seo="true" ref="fire-lounge-2018">
+    <file name="115p js logo46x32.png" crc="291427182" seo="true" ref="fire-lounge-2018:resume">
       <caption webpage="fire-lounge-2018" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
-    <file name="115p js logo46x32_2x.png" crc="87927223" seo="true" ref="fire-lounge-2018">
+    <file name="115p js logo46x32_2x.png" crc="87927223" seo="true" ref="fire-lounge-2018:resume">
       <caption webpage="fire-lounge-2018" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="layer 131119x572.png" crc="4137702400" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
@@ -431,11 +433,13 @@
     <file name="romance-810x333-crop-u34941_2x3.jpg" crc="4078914257" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="115p js logo40x28.png" crc="195337475" seo="true" ref="fire-lounge-2018">
+    <file name="115p js logo40x28.png" crc="195337475" seo="true" ref="fire-lounge-2018:resume">
       <caption webpage="fire-lounge-2018" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
-    <file name="115p js logo40x28_2x.png" crc="4037970895" seo="true" ref="fire-lounge-2018">
+    <file name="115p js logo40x28_2x.png" crc="4037970895" seo="true" ref="fire-lounge-2018:resume">
       <caption webpage="fire-lounge-2018" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="demension658x195.jpg" crc="3821301518" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
@@ -494,11 +498,13 @@
     <file name="romance-810x333-crop-u34941_2x4.jpg" crc="4183822387" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
     </file>
-    <file name="115p js logo29x20.png" crc="3879897087" seo="true" ref="fire-lounge-2018">
+    <file name="115p js logo29x20.png" crc="3879897087" seo="true" ref="fire-lounge-2018:resume">
       <caption webpage="fire-lounge-2018" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
-    <file name="115p js logo29x20_2x.png" crc="4133512767" seo="true" ref="fire-lounge-2018">
+    <file name="115p js logo29x20_2x.png" crc="4133512767" seo="true" ref="fire-lounge-2018:resume">
       <caption webpage="fire-lounge-2018" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="fire lounge p04477x608.jpg" crc="240810094" seo="true" ref="fire-lounge-2018">
       <caption webpage="fire-lounge-2018" alt=""/>
@@ -2793,5 +2799,5 @@
   <file name="insight-14.html" crc="3760612778" seo="true" mt="1530603962552" redirect="true"/>
   <file name="unit-08-13.html" crc="4222561327" seo="true" mt="1530603933642" redirect="true"/>
   <file name="about.html" crc="137677835" seo="true" mt="1530605096555" redirect="true"/>
-  <file name="resume.html" crc="3897046714" seo="true" mt="1531340865136" redirect="true"/>
+  <file name="resume.html" crc="3920776507" seo="true" mt="1531353792081" redirect="true"/>
 </manifest>
